@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.1">
+<eagle version="9.0.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -174,36 +174,36 @@
 <description>Akita's</description>
 <packages>
 <package name="2X15SMD">
-<smd name="P$1" x="-3.2" y="17.78" dx="3" dy="1" layer="1"/>
-<smd name="P$2" x="3.175" y="17.78" dx="3" dy="1" layer="1"/>
-<smd name="P$3" x="-3.175" y="15.24" dx="3" dy="1" layer="1"/>
-<smd name="P$4" x="3.175" y="15.24" dx="3" dy="1" layer="1"/>
-<smd name="P$5" x="-3.175" y="12.7" dx="3" dy="1" layer="1"/>
-<smd name="P$6" x="3.175" y="12.7" dx="3" dy="1" layer="1"/>
-<smd name="P$7" x="-3.175" y="10.16" dx="3" dy="1" layer="1"/>
-<smd name="P$8" x="3.175" y="10.16" dx="3" dy="1" layer="1"/>
-<smd name="P$9" x="-3.175" y="7.62" dx="3" dy="1" layer="1"/>
-<smd name="P$10" x="3.175" y="7.62" dx="3" dy="1" layer="1"/>
-<smd name="P$11" x="-3.175" y="5.08" dx="3" dy="1" layer="1"/>
-<smd name="P$12" x="3.175" y="5.08" dx="3" dy="1" layer="1"/>
-<smd name="P$13" x="-3.175" y="2.54" dx="3" dy="1" layer="1"/>
-<smd name="P$14" x="3.175" y="2.54" dx="3" dy="1" layer="1"/>
-<smd name="P$15" x="-3.175" y="0" dx="3" dy="1" layer="1"/>
-<smd name="P$16" x="3.175" y="0" dx="3" dy="1" layer="1"/>
-<smd name="P$17" x="-3.175" y="-2.54" dx="3" dy="1" layer="1"/>
-<smd name="P$18" x="3.175" y="-2.54" dx="3" dy="1" layer="1"/>
-<smd name="P$19" x="-3.175" y="-5.08" dx="3" dy="1" layer="1"/>
-<smd name="P$20" x="3.175" y="-5.08" dx="3" dy="1" layer="1"/>
-<smd name="P$21" x="-3.175" y="-7.62" dx="3" dy="1" layer="1"/>
-<smd name="P$22" x="3.175" y="-7.62" dx="3" dy="1" layer="1"/>
-<smd name="P$23" x="-3.175" y="-10.16" dx="3" dy="1" layer="1"/>
-<smd name="P$24" x="3.175" y="-10.16" dx="3" dy="1" layer="1"/>
-<smd name="P$25" x="-3.175" y="-12.7" dx="3" dy="1" layer="1"/>
-<smd name="P$26" x="3.175" y="-12.7" dx="3" dy="1" layer="1"/>
-<smd name="P$27" x="-3.175" y="-15.24" dx="3" dy="1" layer="1"/>
-<smd name="P$28" x="3.175" y="-15.24" dx="3" dy="1" layer="1"/>
-<smd name="P$29" x="-3.175" y="-17.78" dx="3" dy="1" layer="1"/>
-<smd name="P$30" x="3.175" y="-17.78" dx="3" dy="1" layer="1"/>
+<smd name="P$1" x="-2.5" y="17.78" dx="3" dy="1.8" layer="1"/>
+<smd name="P$2" x="2.5" y="17.78" dx="3" dy="1.8" layer="1"/>
+<smd name="P$3" x="-2.5" y="15.24" dx="3" dy="1.8" layer="1"/>
+<smd name="P$4" x="2.5" y="15.24" dx="3" dy="1.8" layer="1"/>
+<smd name="P$5" x="-2.5" y="12.7" dx="3" dy="1.8" layer="1"/>
+<smd name="P$6" x="2.5" y="12.7" dx="3" dy="1.8" layer="1"/>
+<smd name="P$7" x="-2.5" y="10.16" dx="3" dy="1.8" layer="1"/>
+<smd name="P$8" x="2.5" y="10.16" dx="3" dy="1.8" layer="1"/>
+<smd name="P$9" x="-2.5" y="7.62" dx="3" dy="1.8" layer="1"/>
+<smd name="P$10" x="2.5" y="7.62" dx="3" dy="1.8" layer="1"/>
+<smd name="P$11" x="-2.5" y="5.08" dx="3" dy="1.8" layer="1"/>
+<smd name="P$12" x="2.5" y="5.08" dx="3" dy="1.8" layer="1"/>
+<smd name="P$13" x="-2.5" y="2.54" dx="3" dy="1.8" layer="1"/>
+<smd name="P$14" x="2.5" y="2.54" dx="3" dy="1.8" layer="1"/>
+<smd name="P$15" x="-2.5" y="0" dx="3" dy="1.8" layer="1"/>
+<smd name="P$16" x="2.5" y="0" dx="3" dy="1.8" layer="1"/>
+<smd name="P$17" x="-2.5" y="-2.54" dx="3" dy="1.8" layer="1"/>
+<smd name="P$18" x="2.5" y="-2.54" dx="3" dy="1.8" layer="1"/>
+<smd name="P$19" x="-2.5" y="-5.08" dx="3" dy="1.8" layer="1"/>
+<smd name="P$20" x="2.5" y="-5.08" dx="3" dy="1.8" layer="1"/>
+<smd name="P$21" x="-2.5" y="-7.62" dx="3" dy="1.8" layer="1"/>
+<smd name="P$22" x="2.5" y="-7.62" dx="3" dy="1.8" layer="1"/>
+<smd name="P$23" x="-2.5" y="-10.16" dx="3" dy="1.8" layer="1"/>
+<smd name="P$24" x="2.5" y="-10.16" dx="3" dy="1.8" layer="1"/>
+<smd name="P$25" x="-2.5" y="-12.7" dx="3" dy="1.8" layer="1"/>
+<smd name="P$26" x="2.5" y="-12.7" dx="3" dy="1.8" layer="1"/>
+<smd name="P$27" x="-2.5" y="-15.24" dx="3" dy="1.8" layer="1"/>
+<smd name="P$28" x="2.5" y="-15.24" dx="3" dy="1.8" layer="1"/>
+<smd name="P$29" x="-2.5" y="-17.78" dx="3" dy="1.8" layer="1"/>
+<smd name="P$30" x="2.5" y="-17.78" dx="3" dy="1.8" layer="1"/>
 <circle x="-3.937" y="19.304" radius="0.508" width="0.254" layer="21"/>
 </package>
 </packages>
