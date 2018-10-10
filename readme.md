@@ -8,6 +8,8 @@ Prototype board with universal area for M5stack.
 
 Eagle library for M5stack base board is also available: m5amigo.lib
 
+note: board thickness should be 1.0mm.
+
 # Author
 
 Junichi Akita (@akita11) akita@ifdl.jp
